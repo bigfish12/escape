@@ -1,3 +1,7 @@
+html {
+  /* background-image: url(); */
+}
+
 .button {
     height: 50px;
     width: 150px;
@@ -44,6 +48,11 @@
     font-size: 20px;
     font-style: oblique;
     font-weight: bold;
+}
+
+.fireworks {
+  height: 100%;
+  width: 100%;
 }
 
 #clock {
