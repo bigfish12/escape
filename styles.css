@@ -1,0 +1,16 @@
+.button {
+    height: 100px;
+    width: 300px;
+    display: inline-block;
+    /* position: absolute;
+    top: 50%;
+    right: 50%; */
+}
+
+.parent {
+    text-align: center;
+}
+
+#clock {
+    display: ;
+}
